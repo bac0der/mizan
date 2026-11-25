@@ -1,0 +1,24 @@
+{
+  "name": "mizan-autopilot-pwa",
+  "private": true,
+  "version": "2.2.0",
+  "type": "module",
+  "description": "Mizan v2.2 — Life Autopilot & Balance PWA: dinamik namoz vaqtlari, Toq/Juft hafta avtomatik almashinuvi, 3 kunlik soatma-soat deadline xabarnomasi va 3 kunlik tarix tozalash",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "lucide-react": "^0.460.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.0.0",
+    "@vitejs/plugin-react": "^4.3.4",
+    "tailwindcss": "^4.0.0",
+    "vite": "^6.0.1",
+    "vite-plugin-pwa": "^0.21.1"
+  }
+}
